@@ -1,0 +1,7 @@
+/** pagina css FAQ**/
+@charset "UTF-8";
+img#logo-faq {
+    width: 400px;
+    margin-left: 30%;
+    margin-right: auto;
+}

@@ -1,0 +1,37 @@
+/** css pagina servico**/
+@charset "UTF-8";
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+
+div#boxdown {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div#borda1 {
+    border-radius: 20px;
+    border: solid 2px;
+    border-color: rgb(80, 80, 80);
+    color: rgb(80, 80, 80);
+
+}
+div#borda2 {
+    border-radius: 20px;
+    border: solid 2px;
+    border-color: rgb(80, 80, 80);
+    color: rgb(80, 80, 80);
+}
+div#dropdown {
+    margin-top: auto;
+}
+.btn {
+    background-color: #2E6BDB;
+    color: white;
+}
+.btn:hover {
+    background-color: #1158d9;
+}
+img#logo-servicos {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}

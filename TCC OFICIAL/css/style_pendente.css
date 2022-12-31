@@ -1,0 +1,87 @@
+@charset "UTF-8";
+
+
+.card{
+	border-color: #FFAE00;
+	border-style: solid;
+	border-width: 2px;
+	text-align: center;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+.card-text{
+	background-color: #808080;
+	border-radius: 8px;
+}
+.info{
+	border-radius: 8px;
+	background-color: #ffffff;
+	height: 8rem;
+	margin-bottom: 5px;
+	border-color: #2E6BDB;
+	border-style: solid;
+	border-width: 2px;
+}
+.text_inicio{
+	text-align:center;
+	margin-top: 2%;
+	margin-bottom: 15px;
+	background-color: #2E6BDB;
+	border-radius: 8px;
+	color: #ffffff;
+}
+.h6{
+	margin-top: 14px;
+	margin-bottom: 14px;
+}
+.data_orçamento{
+    height: 3rem; 
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+	background-color: #ffffff;
+	margin-bottom: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	border-color: #2E6BDB;
+	border-style: solid;
+	border-width: 2px;
+}
+.descricao{
+    height: 70px; 
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+	background-color: #ffffff;
+	margin-bottom: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	border-color: #2E6BDB;
+	border-style: solid;
+	border-width: 2px;
+}
+.btnn{
+	margin-top: 30px;
+}
+div#avaria{
+	border-radius: 8px;
+	background-color: #ffffff;
+	height: 8rem;
+	margin-bottom: 5px;
+	border-color: #2E6BDB;
+	border-style: solid;
+	border-width: 2px;
+}
+button#borda {
+    border: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    background-color: #2E6BDB;
+    color: rgb(255, 255, 255)
+}
+button#borda:hover {
+    background-color: #0e4ab9;
+}

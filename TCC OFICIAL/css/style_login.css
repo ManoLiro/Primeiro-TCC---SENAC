@@ -1,0 +1,57 @@
+/**css pagina login**/
+@charset "UTF-8";
+.border-radius{
+   border-color: orange;
+   border-style: solid;
+   border-width: 2px;
+   padding: 30px;
+   border-radius: 10px;
+}
+div#box_grad {
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+div#box {
+    margin-left: auto;
+    margin-right: auto;
+}
+.form-control {
+    border-color: orange;
+}
+.logo_login {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -20px;
+}
+.btn {
+    color: white;
+    background-color: rgb(66, 27, 240);
+    padding: 10px;
+    width: 100px;
+}
+.btn:hover{
+    background-color: rgb(48, 21, 168);
+    color: white;
+    transition: all 0.3s ease-in-out;
+}
+/**Remover seta dos campos number**/
+input[type=number]::-webkit-inner-spin-button { 
+    -webkit-appearance: none;
+}
+p{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: rgb(66, 27, 240);
+    transition: 0.3;
+    font-weight: bold;
+}
+a:hover{
+    color: rgb(48, 21, 168);
+}
+.form-control {
+    border-color: rgb(66, 27, 240);
+    border-width: 2px;
+}

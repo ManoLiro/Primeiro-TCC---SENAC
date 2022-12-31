@@ -1,0 +1,47 @@
+@charset "UTF-8";
+img#logo-cliente {
+    width: 400px;
+    margin-left: 30%;
+    margin-right: 50%;
+}
+div#entrada_dados {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.box {
+    padding: 20px;
+    border-radius: 10px;
+    border: solid 1px;
+    border-color: rgb(80, 80, 80);
+}
+/**Remover seta dos campos number**/
+input[type=number]::-webkit-inner-spin-button { 
+    -webkit-appearance: none;
+}
+.btn {
+    color: white;
+    background-color: #2E6BDB;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+
+}
+.btn:hover{
+    background-color: #0a3fa1;
+    color: white;
+    transition: all 0.3s ease-in-out;
+}
+.form-control {
+    border: solid 1px;
+    border-color: rgb(80, 80, 80);
+}
+label {
+    color: rgb(80, 80, 80);
+    font-size: large;
+}
+.col-md-12 {
+    margin-top: 10px;
+}
+.col-md-6 {
+    margin-top: 10px;
+}
